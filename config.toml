@@ -4,7 +4,7 @@ title = "Anubis"
 theme = "anubis"
 paginate = 3
 ignoreErrors = ["error-remote-getjson"]
-
+publishDir = "docs"
 disqusShortname = ""
 googleAnalytics = ""
 

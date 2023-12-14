@@ -2,7 +2,7 @@
 author = "Christos"
 title = "memsss"
 date = "2023-15-11"
-description = "С‡С‚Рѕ РїРёСЃР°С‚СЊ."
+description = "1111"
 tags = [
     "markdown",
     "css",
@@ -16,11 +16,24 @@ categories = [
 aliases = ["migrate-from-jekyl"]
 favorite = true
 +++
-#топ оперов в сидже
+# TOP operov in Sieg
 ---
-###среди атаки
-![](https://static.wikia.nocookie.net/rainbowsix/images/d/d2/Thermite_Portrait.png/revision/latest?cb=20190427212830&path-prefix=ru)
+## Atack
+### Tetcher
+#### I am British solder. I have big gan it mast shut. I wont to used on you. You bloody eyes will look on me with desere of deth. London is the capital of Great Britan so London is thr capital of old the world. Bad the world is blood inaf. 
+![](/img/Thatcher_Portrait.webp)
+### Termit
+#### 
+![](/img/Termit_Portrait.webp)
+### Yang
+![](Yang.webp)
 
-термит
+## Defence
 
-###среди защиты
+### Warden
+![](/img/Termit_Portrait.webp)
+### Kapkan
+![](/img/Kapkan_Portrait.webp)
+### Alibi
+
+### Valkyre
